@@ -1,0 +1,6 @@
+﻿  gameObj.cpp
+  Main.cpp
+  Generating Code...
+Main.obj : error LNK2005: "public: __cdecl GlassHouse::gameObj::gameObj(int,int)" (??0gameObj@GlassHouse@@QEAA@HH@Z) already defined in gameObj.obj
+Main.obj : error LNK2005: "public: __cdecl GlassHouse::gameObj::gameObj(void)" (??0gameObj@GlassHouse@@QEAA@XZ) already defined in gameObj.obj
+C:\Users\abcdefg\source\repos\GlassHouse\x64\Debug\GlassHouse.exe : fatal error LNK1169: one or more multiply defined symbols found
